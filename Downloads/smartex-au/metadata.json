@@ -1,0 +1,6 @@
+
+{
+  "name": "Smartex AU",
+  "description": "Premium University Resource Portal for Anna University students. Access notes, question papers, and AI support.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
